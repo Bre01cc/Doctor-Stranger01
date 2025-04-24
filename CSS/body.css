@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  /* tudo que é visivel na altura */
+  background: linear-gradient(90deg, #000, #000d 35%, #0000),
+    url(../Img/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  display: flex;
+  flex-direction: column;
+  padding: 80px 128px 50px 128px;
+  /*cima, direita, baixo e esquerda */
+}
+@media (max-width: 768px) {
+  /* (max-width:768px) definindo a largura maxima da tela para a responsividade */
+  body {
+    padding: 30px 30px 25px 30px;
+    background-image: url(../Img/background.png);
+    background-color: #0009;
+    background-blend-mode: darken;
+  }
+}

@@ -1,0 +1,16 @@
+footer{
+    color: aliceblue;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic; 
+}
+footer a{
+    transition: all 1s;
+   
+}
+footer a:hover{
+    color: red;
+
+}
