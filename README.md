@@ -7,10 +7,7 @@
  desde da imagem, icones, responsividade do site, e etc.
  Projeto ainda não concluido.
 
-##TECNOLOGIAS
-#INDEX
-#CSS
-#JAVA SCRIPT
+
   
 
-Creditos:(https://www.youtube.com/watch?v=24G8dGNUsXM)
+Créditos: Fernando Leonid
